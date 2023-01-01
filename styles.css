@@ -55,6 +55,8 @@ ul li a {
 
 .list-item:first-child {
     margin-right: 275px;
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 
@@ -86,6 +88,19 @@ ul li a {
     color: #e5e7eb;
 }
 
+.main-text button {
+    width: 120px;
+    height: 30px;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: none;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+
 .image {
     max-width: 50%;
 }
+
+/* Main section button */
+
